@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e94e79a-57e2-4d5a-9afb-e22ffc59c9d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/.vuepress/components/Cite.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/.vuepress/public/assesments/assessment1/brief_output_and_reflection_on_personal_skills_and_activities.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/resources.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/week_2/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GPD/notes/slides/w1_slides.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/academic-calendar-2017-18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/academic-calendar-2017-18.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/assesment_dataes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/assesment_dataes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/SWD400 - resit/SWD400_Assessment_2_Resit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/CDA401_Client_Side_Scripting_Assessment_1_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/SWD400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/advanced_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/assesment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/basic_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/extra_options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/form_just_total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/home_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/mock_up.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/order_form_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/task_break_down.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/compliance-talk/Joe Appleton Presentation Talk.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/compliance-talk/Joe Appleton Presentation Talk.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/individual-project/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/individual-project/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/notes/CDA400" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/notes/CDA400" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/Part 1 Professional Considerations.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment1_2015.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment_template.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/asignment1_second_attempt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/basic_rules.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/header_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/2017 Version/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/adjusted_layouts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/adjusted_layouts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/form.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/forms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/forms.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/headings_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/menu_footers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/navigation_footers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/adjusted_layouts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/adjusted_layouts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/form.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/forms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/forms.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/headings_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/menu_footers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/navigation_footers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_third_attempt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_third_attempt.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/marking_rubik_ass_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/marking_rubik_ass_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/final_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/final_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assignment_mock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/rubik2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/editable/~$D400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_RESIT_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_RESIT_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/assignment_mock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_tca.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/results_resits/results_resits.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/internet-technology/tca/tca-editable/results_resits/~$results_resits.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r2 [pr done]/swd500_AE1_2017_REF2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r2 [pr done]/swd500_AE1_2017_REF2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/marks.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/marks.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2 [pr done]/swd500_AE2_2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2 [pr done]/swd500_AE2_2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2100960814">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="48" />
+    <option name="width" value="1920" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swd500_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swd500_2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e94e79a-57e2-4d5a-9afb-e22ffc59c9d1" name="Default Changelist" comment="" />
+      <created>1538029708135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538029708135</updated>
+      <workItem from="1538029709332" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="236000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="728" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3974152" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

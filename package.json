@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-localstorage": "^0.4.2",
+    "vue-router": "^2.7.0"
+  }
+}
