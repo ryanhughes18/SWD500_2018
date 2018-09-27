@@ -9,7 +9,7 @@ Welcome to SWD_500, please find below the course schedule. The two practical ses
 
 | #     |      Week Starting           |     Session 1 (0900 - 1100 in HC208)    |   1300 - 1500 in SM, Area 37  |
 | ------|   -------------------| --------------- | ------------|
-| 1     |         24-Sep-18    | <p>[Notes: Unit Introduction and HTML refresher](sessions/session1.0/README.md)</p>  <p> [Task: Create a HTML page](sessions/session1.0/task.md)</p> |  TBA|
+| 1     |         24-Sep-18    | <p>[Notes: Unit Introduction and HTML refresher](sessions/session1.0/README.md)</p>  <p> [Task: Create a HTML page](sessions/session1.0/task.md)</p> |  <p>[Notes: Responsive Design](sessions/session1.1/README.md)</p>  <p> [Task: Responsive Design](sessions/session1.1/task.md)</p>|
  
 
 
