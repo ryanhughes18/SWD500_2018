@@ -9,6 +9,63 @@
       <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/resources.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../GPD/notes/notes/week_2/notes.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../GPD/notes/slides/w1_slides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/swd500_2018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/elements.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/floatedleft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/floatedright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/floatleftandright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/marchkind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/assets/website_layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/DEMO1_pseudo_elements/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/DEMO1_pseudo_elements/img/solent_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/DEMO1_pseudo_elements/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/float_left_example.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/float_right_example.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/lecturer_notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/no_float.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/task.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/task_image.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/editable/task_image_new.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.0/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/adaptive_site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/adaptive_site_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/apple_brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/brand_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/brand_tiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/clolor_emotion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/course_example.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/design_museum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/device_emulation_riight_click.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/device_emulation_tools_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/device_on_a_browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/edit_file.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/editable/course_example.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/image_upload.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/pen_one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/responsive_layout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/small_device.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/smashing_mag_comparision.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/task_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/type_shade_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/typography.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/assets/website_comparison.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/responsive_demo_one/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/responsive_demo_one/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessions/session1.1/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/academic-calendar-2017-18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/academic-calendar-2017-18.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/assesment_dataes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/assesment_dataes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/SWD400 - resit/SWD400_Assessment_2_Resit.pdf" beforeDir="false" />
@@ -224,12 +281,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="13" />
+          <entry key="md" value="401" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="13" />
+          <entry key="Markdown" value="401" />
         </counts>
       </usages-collector>
     </session>
@@ -240,8 +297,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="75">
+                <caret line="2" column="423" selection-start-line="2" selection-start-column="423" selection-end-line="2" selection-end-column="423" />
               </first_editor>
               <second_editor />
             </state>
@@ -251,7 +308,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -328,12 +385,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538029708135</updated>
-      <workItem from="1538029709332" duration="236000" />
+      <workItem from="1538029709332" duration="508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236000" />
+    <option name="totallyTimeSpent" value="508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -345,7 +402,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -370,8 +427,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="75">
+            <caret line="2" column="423" selection-start-line="2" selection-start-column="423" selection-end-line="2" selection-end-column="423" />
           </first_editor>
           <second_editor />
         </state>
