@@ -195,8 +195,6 @@
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sessions/session1.1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sessions/session1.1/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" afterDir="false" />
     </list>
@@ -210,7 +208,7 @@
     <session id="-2100960814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -383,16 +381,15 @@
       <option name="presentableId" value="Default" />
       <updated>1538029708135</updated>
       <workItem from="1538029709332" duration="1857000" />
-      <workItem from="1538049753160" duration="1055000" />
+      <workItem from="1538049753160" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2912000" />
+    <option name="totallyTimeSpent" value="3210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3974152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
