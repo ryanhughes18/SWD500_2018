@@ -1,6 +1,10 @@
-# GitHub team Collaboration 
 
-The goal of this task is to collaborate to create a website on a topic that interest. 
+
+# GitHub Team Collaboration 
+
+The goal of this task is to collaborate in creating a website to help inform first year students of important lifestyle and university information. 
+The completed website should be published to [GitHub pages](https://pages.github.com/).
+
 
 1. Split up into teams of 3 or 4 
 2. Make sure you all set your user name on your local version of git. From command line type `git config --global user.name "your name"`
@@ -9,6 +13,9 @@ The goal of this task is to collaborate to create a website on a topic that inte
 4. One member of the team should set up a repository. You should then follow the steps in the [notes](README.md) in order to collaborate and create the website. 
 5. When you're finished publish the work for free to the world using [gitHubPages](https://help.github.com/articles/user-organization-and-project-pages/)
 
+
+
+  
 
 
 # Some helpful quick git commands
