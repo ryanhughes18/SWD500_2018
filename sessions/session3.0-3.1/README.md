@@ -195,6 +195,7 @@ Your grid is just the scafolding for your website. For each new site you make yo
 [Design Your Own Grid](task.md)
 
 ## Resources 
+
 [W3Schools Grid Tutorial](http://www.w3schools.com/css/css_rwd_grid.asp)  
 [Creating a Simple CSS Grid From Scratch](http://j4n.co/blog/Creating-your-own-css-grid-system)  
 [A Great Article on Creating Grids](https://css-tricks.com/dont-overthink-it-grids/)    
