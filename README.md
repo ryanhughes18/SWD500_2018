@@ -12,7 +12,7 @@ Welcome to SWD_500, please find below the course schedule. The two practical ses
 | 1     |         24-Sep-18    | <p>[Notes: Unit Introduction and HTML refresher](sessions/session1.0/README.md)</p>  <p> [Task: Create a HTML page](sessions/session1.0/task.md)</p> |  <p>[Notes: Responsive Design](sessions/session1.1/README.md)</p>  <p> [Task: Responsive Design](sessions/session1.1/task.md)</p>|
 | 2     |         01-Oct-18    | <p>[Notes: Git Branching and Team Workflow ](sessions/session2.0/README.md)</p>  <p> [Task: GitHub team Collaboration](sessions/session2.0/task.md)</p> |  Continue Collaborative Project|
 | 3     |         08-Oct-18    | <p>[Notes: Grids   ](sessions/session3.0-3.1/README.md)</p>  <p> [Task: Create your grid](sessions/session3.0-3.1/task.md)</p> |  Assessment 1 Introduction and Continue With Grids|
-
+| 4     |         15-Oct-18    | <p>[Notes: Responsive Grids ](sessions/session4.0/README.md)</p>  <p> [Task: Create your grid](sessions/session4.0/task.md)</p> |  <p>[Responsive Images](sessions/session4.1/README.md)</p>|
  
 
 
