@@ -1,0 +1,186 @@
+/* line 1, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+body {
+  margin: 0;
+  padding: 0;
+  color: #303030;
+  background: #fafafa url(img/bodybg.gif) top left repeat-y;
+  font: 76% Verdana, Tahoma, sans-serif;
+}
+
+/* line 8, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+ul {
+  list-style: circle;
+  margin: 15px 0 20px 0;
+  font-size: 0.9em;
+}
+
+/* line 13, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+li {
+  margin: 0 0 8px 25px;
+}
+
+/* line 16, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+a {
+  color: #A1B449;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* line 21, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+a:hover {
+  color: #505050;
+  text-decoration: underline;
+}
+
+/* line 25, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+img {
+  float: left;
+  margin: 0 15px 15px 0;
+  padding: 1px;
+  background: #ffffff;
+  border: 1px solid #d0d0d0;
+}
+
+/* line 32, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+a img {
+  border-color: #A1B449;
+}
+
+/* line 35, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+a img:hover {
+  background: #A1B449;
+  border-color: #A1B449;
+}
+
+/* line 39, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100%;
+  overflow: auto;
+  background: #e0e0e0 url(img/sidebarbg.gif) top right repeat-y;
+  text-align: right;
+}
+
+/* line 49, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+body > #sidebar {
+  position: fixed;
+}
+
+/* line 52, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar h1 {
+  margin: 20px 18px 0 5px;
+  color: #A1B449;
+  font-size: 1.6em;
+  letter-spacing: -2px;
+  text-align: right;
+}
+
+/* line 59, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar h2,
+#sidebar h3 {
+  margin: 0 20px 18px 5px;
+  color: #808080;
+  font-size: 1.1em;
+  font-weight: bold;
+  letter-spacing: -1px;
+  text-align: right;
+}
+
+/* line 68, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar h3 {
+  margin: 20px 18px 4px 5px;
+  color: #606060;
+}
+
+/* line 72, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar p {
+  margin: 0 20px 18px 5px;
+  color: #606060;
+  font-size: 0.8em;
+}
+
+/* line 77, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#sidebar a {
+  color: #808080;
+}
+
+/* line 80, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#menu a {
+  display: block;
+  width: 202px;
+  padding: 5px 18px 5px 0;
+  color: #606060;
+  background: #e0e0e0 url(img/sidebarbg.gif) top right repeat-y;
+  font-size: 1.8em;
+  font-weight: normal;
+  text-decoration: none;
+  letter-spacing: -2px;
+}
+
+/* line 91, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#menu a:hover {
+  color: #303030;
+  background: #f0f0f0 url(img/sidebarbg.gif) top right repeat-y;
+}
+
+/* line 95, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#menu a.active {
+  padding: 5px 18px 5px 0;
+  background: #fafafa;
+  border-top: 2px solid #c0c0c0;
+  border-bottom: 2px solid #c0c0c0;
+}
+
+/* line 101, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#menu a.active:hover {
+  color: #505050;
+  background: #fafafa;
+}
+
+/* line 105, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#content {
+  width: 520px;
+  margin: 0 0 0 240px;
+  padding: 20px 0;
+  background: #fafafa;
+}
+
+/* line 111, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#content p {
+  margin: 0 0 20px 0;
+  line-height: 1.5em;
+}
+
+/* line 115, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#content h1 {
+  margin: 0;
+  color: #A1B449;
+  font-size: 4em;
+  letter-spacing: -5px;
+  text-align: center;
+}
+
+/* line 122, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#content h2 {
+  margin: 0;
+  color: #808080;
+  font-weight: normal;
+  font-size: 2.5em;
+  letter-spacing: -2px;
+  text-align: center;
+}
+
+/* line 130, /Users/joeappleton1/Code/scssTest/scss/main.scss */
+#content h3 {
+  clear: both;
+  margin: 30px 0 10px 0;
+  color: #A1B449;
+  font-weight: normal;
+  font-size: 2em;
+  letter-spacing: -2px;
+}
+
+/*# sourceMappingURL=../css/main.map */
