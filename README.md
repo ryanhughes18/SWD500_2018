@@ -15,6 +15,7 @@ Welcome to SWD_500, please find below the course schedule. The two practical ses
 |5| 22-Oct-18 | <p>[Notes: SCSS](sessions/session5.0/README.md)</p>  <p> [Task: Create your grid](sessions/session5.0/task.md)</p>|
 |6| 29-Oct-18 | <p>Assessment Support</p>  |  <p> Assessment Support  </p>|
 |7| 05-Nov-18|  <p> [Notes: Advanced SASS](sessions/session7.0/README.md) </p>  <p>[Task: Advanced SASS](sessions/session7.0/task.md)</p>  |  <p> Assessment 2 Introduction <p>  <p> Continue With SASS Task/Assessment 2 |
+|8| 12-Nov-18|  <p> [Notes: JavaScript](sessions/session8.0/README.md) </p>  <p>[Task: Consuming a API](sessions/session8.0/task.md)</p>  |  Continue the task from the morning|
  
 
  
