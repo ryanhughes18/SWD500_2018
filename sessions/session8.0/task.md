@@ -55,3 +55,4 @@ Perhaps you remember that we don't want our JavaScript to run before the pages l
 - Figure out how to make a API request to  [https://www.openbrewerydb.org/](https://www.openbrewerydb.org/)
 - How would you store the API URL in a separate file as a constant?  
 -  Can you map the breweries using [https://leafletjs.com/](https://leafletjs.com/). Try to include the leaflet library using `NPM install --save` 
+- Publish your work on githubpages or firebase
