@@ -17,7 +17,7 @@ Welcome to SWD_500, please find below the course schedule. The two practical ses
 |7| 05-Nov-18|  <p> [Notes: Advanced SASS](sessions/session7.0/README.md) </p>  <p>[Task: Advanced SASS](sessions/session7.0/task.md)</p>  |  <p> Assessment 2 Introduction <p>  <p> Continue With SASS Task/Assessment 2 |
 |8| 12-Nov-18|  <p> [Notes: JavaScript](sessions/session8.0/README.md) </p>  <p>[Task: Consuming a API](sessions/session8.0/task.md)</p>  |  Continue the task from the morning|
 |9| continue with last task        |                                    |
-|10| <p> [Read the view documentation](https://vuejs.org/v2/guide/)     |       [Vue.js Task](sessions/sessions10.0/task.md)         |
+|10| 26-Nov-18| <p> [Read the view documentation](https://vuejs.org/v2/guide/)     |       [Vue.js Task](sessions/session10.0/task.md)         |
  
 
  
